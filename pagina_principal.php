@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		<?php
-			echo "hola"
+			echo "hola a todos"
 		?>
 	</body>
 </html>
